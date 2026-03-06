@@ -14,7 +14,6 @@
 
 ## 🚀 About Me
 
-- 🎓 **CSE Student at GIET University**
 - 💻 Interested in **Web Development, Systems, and Cybersecurity**
 - 🧠 Currently building **real-time apps and experimental projects**
 - 🌱 Exploring **Cybersecurity + Low Level Systems**
@@ -78,28 +77,9 @@
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SomSatwik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomSatwik&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SomSatwik&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
-## ✨ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
 
 <p align="center">
   <i>"I like building things that make people say — <b>wait... how did you build that?</b>"</i>
