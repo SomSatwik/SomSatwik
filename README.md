@@ -82,5 +82,5 @@
 
 
 <p align="center">
-  <i>"I like building things that make people say — <b>wait... how did you build that?</b>"</i>
+  <i>"I like building things that make people say - <b>wait... how did you build that?</b>"</i>
 </p>
