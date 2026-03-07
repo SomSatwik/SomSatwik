@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Som Satwik Deo</h1>
+<h1 align="center">Hey 👋, I am Som Satwik Deo</h1>
 
 <h3 align="center">CSE Student • Builder • Curious Mind</h3>
 
